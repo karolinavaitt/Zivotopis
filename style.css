@@ -22,7 +22,7 @@ h3 {
     font-size: 20px;
 }
 
-.Profilovka {
+.profilovka {
     width: 300px;
     border-radius: 50%;
     float: left;
@@ -74,19 +74,19 @@ td {
     font-family: 'Dosis', sans-serif;
 }
 
-.kontaktniudaje {
+.kontaktni-udaje {
     color: white;
     text-align: center;
     padding: 30px 0;
     display: inline-block;
 }
 
-.kontaktniudaje li {
+.kontaktni-udaje li {
     display: inline-block;
     margin-inline: 80px;
 }
 
-.kontaktniudaje a {
+.kontaktni-udaje a {
     display: inline-block;
     color: white;
     text-decoration: none;
